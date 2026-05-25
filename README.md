@@ -14,14 +14,14 @@ This repository is the public technical component of a larger workforce developm
 pm25-nyc-capstone-eda/
 ├── README.md
 ├── notebook/
-│   └── User\_PythonAnalysis\_Capstone.ipynb
+│   └── User_PythonAnalysis_Capstone.ipynb
 ├── data/
-│   ├── PM2.5\_may\_2026.csv
-│   ├── PM2.5\_may\_2026\_Capstone.csv
-│   └── site\_info.csv
+│   ├── PM2.5_may_2026.csv
+│   ├── PM2.5_may_2026_Capstone.csv
+│   └── site_info.csv
 └── docs/
     ├── methodology.md
-    ├── findings\_summary.md
+    ├── findings_summary.md
     ├── limitations.md
     └── citation.md
 ```
@@ -30,12 +30,12 @@ pm25-nyc-capstone-eda/
 
 |File|Purpose|
 |-|-|
-|`notebook/User\_PythonAnalysis\_Capstone.ipynb`|Main Google Colab notebook and technical analysis|
-|`data/PM2.5\_may\_2026.csv`|PM2.5 data source file|
-|`data/PM2.5\_may\_2026\_Capstone.csv`|Capstone working data file|
-|`data/site\_info.csv`|Monitoring site metadata|
+|`notebook/User_PythonAnalysis_Capstone.ipynb`|Main Google Colab notebook and technical analysis|
+|`data/PM2.5_may_2026.csv`|PM2.5 data source file|
+|`data/PM2.5_may_2026_Capstone.csv`|Capstone working data file|
+|`data/site_info.csv`|Monitoring site metadata|
 |`docs/methodology.md`|Summary of the analysis process|
-|`docs/findings\_summary.md`|Summary of major findings|
+|`docs/findings_summary.md`|Summary of major findings|
 |`docs/limitations.md`|Known limitations and interpretation cautions|
 |`docs/citation.md`|Data and source citation information|
 
